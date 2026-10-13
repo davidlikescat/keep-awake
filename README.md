@@ -50,3 +50,7 @@ To hide from Dock, add to `dist/Keep Awake.app/Contents/Info.plist`:
 ## How It Works
 
 When activated, the app moves the mouse by a few pixels at the configured interval, then returns it to the original position. This prevents macOS from entering sleep mode while keeping the movement barely noticeable.
+
+## Build log
+
+- [개발기 (Korean): 맥이 자꾸 잠들 때 — 커서를 아주 조금 움직인다](https://aicoder-lab.blogspot.com/2026/07/mac-keep-awake-mouse-jiggler.html)
